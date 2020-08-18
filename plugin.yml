@@ -1,0 +1,5 @@
+main: me.com.mxreports.MXReports
+name: MXReport
+author: [ematheux]
+version: 0.5
+depend: [RCore]
